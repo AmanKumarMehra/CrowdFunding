@@ -21,7 +21,7 @@ function App() {
           provider,
         });
       } else {
-        console.error("Please install MetaMask!");
+        console.error("Please install MetaMask!"\);
       }
       // if (window.ethereum) {
       //   provider = window.ethereum;
